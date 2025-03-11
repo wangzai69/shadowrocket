@@ -32,7 +32,7 @@
 ## iOS和MacOS安装Shadowrocket 教程
 
 - 选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
-- 下载完可查看使用教程 [2025小火箭、clash详细图文使用教程（终结篇）实时更新](https://github.com/wangzai69/wiki)
+- 下载完可查看详细使用教程 [2025小火箭、clash详细图文使用教程（终结篇）实时更新](https://github.com/wangzai69/wiki)
 
 <br>
 
