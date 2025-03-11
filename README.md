@@ -30,9 +30,9 @@
 <br>
 
 ## iOS和MacOS安装Shadowrocket 教程
-Shadowrocket是一个代理工具，需要搭配购买的节点才能正常使用，如需要节点请前往自己心仪的节点供应商那里购买 → [2025精选翻墙机场科学上网梯子节点（终结篇）实时更新](https://github.com/wangzai69/vpn)
 
-下载完可查看详细的图文教程 [2025小火箭、clash详细图文使用教程（终结篇）实时更新](https://github.com/wangzai69/wiki)
+- 选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
+- 下载完可查看使用教程 [2025小火箭、clash详细图文使用教程（终结篇）实时更新](https://github.com/wangzai69/wiki)
 
 <br>
 
