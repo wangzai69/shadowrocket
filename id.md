@@ -1,5 +1,4 @@
-## 免费美区ID
-可下载小火箭的美区ID
+## 可下载shadowrocket的美区ID
 
 - **`khongnd816@gmail.com`**
 
