@@ -30,7 +30,7 @@ shadowrocket 小火箭 shadowrocket下载 小火箭下载 小火箭共享账号 
 
 <br>
 
-## iOS和MacOS安装Shadowrocket 教程
+## iOS和MacOS下载Shadowrocket教程
 
 小火箭的真实名称是Shadowrocket，只有国外苹果商店才能下载正版，就需要用国外的苹果ID登录商店才能下载，这里需要注意要在AppStore登录ID，而不是在手机设置的iCloud里登录。
 - 图1：选择<code>App Store</code>苹果商店
@@ -49,6 +49,9 @@ shadowrocket 小火箭 shadowrocket下载 小火箭下载 小火箭共享账号 
 
 ![图片描述](https://github.com/wangzai69/wiki/blob/main/images/22.jpg?raw=true)
 
+<br>
+<br>
+下载完请查看如何使用 [shadowrocket教程](https://github.com/wangzai69/wiki)
 <br>
 
 ##
