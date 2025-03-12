@@ -50,7 +50,7 @@ shadowrocket 小火箭 shadowrocket下载 小火箭下载 小火箭共享账号 
 ![图片描述](https://github.com/wangzai69/wiki/blob/main/images/22.jpg?raw=true)
 
 <br>
-<br>
+
 下载完请查看如何使用 [shadowrocket教程](https://github.com/wangzai69/wiki)
 <br>
 
