@@ -32,11 +32,6 @@ shadowrocket 小火箭 shadowrocket下载 小火箭下载 小火箭共享账号 
 
 ## iOS和MacOS安装Shadowrocket 教程
 
-- 选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
-- 下载完可查看详细使用教程 [2025小火箭、clash详细图文使用教程（终结篇）实时更新](https://github.com/wangzai69/wiki)
-
-<br>
-
 小火箭的真实名称是Shadowrocket，只有国外苹果商店才能下载正版，就需要用国外的苹果ID登录商店才能下载，这里需要注意要在AppStore登录ID，而不是在手机设置的iCloud里登录。
 - 图1：选择<code>App Store</code>苹果商店
 - 图2：商店首页右上角<code>图标</code>
