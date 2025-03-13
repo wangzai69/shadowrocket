@@ -26,12 +26,12 @@
 
 #### 不过另有方法
 
-- 去登录已精选的 [vpn供应商](https://yq.yq3566.top/#/register?code=WYvHUyx6) 
+- 去登录已精选的 [🚀vpn供应商](https://yq.yq3566.top/#/register?code=WYvHUyx6) 
 
 - 在 **` 查看文档 `**→**` iOS、Mac客户端 `**
 - 拉到最底就是实时免费美区ID
 - 兄弟姐妹们我尽力了。
-当然还有更多的vpn供应商推荐 [2025精选翻墙梯子节点机场vpn推荐](https://github.com/wangzai69/vpn)
+当然还有更多的vpn供应商推荐 [🚀2025精选翻墙梯子节点机场vpn推荐](https://github.com/wangzai69/vpn)
 
 <br>
 
