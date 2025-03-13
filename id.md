@@ -26,9 +26,9 @@
 
 #### 不过另有方法
 
-- 去登录已精选的 [vpn供应商](https://yq.yq3566.top/#/register?code=WYvHUyx6) 有实时免费美区ID
+- 去登录已精选的 [vpn供应商](https://yq.yq3566.top/#/register?code=WYvHUyx6) 
 
-- 登录后在 **` 查看文档 `**→**` iOS、Mac客户端 `**
+- 在 **` 查看文档 `**→**` iOS、Mac客户端 `**
 - 拉到最底就是实时免费美区ID
 - 兄弟们我尽力了。
 
