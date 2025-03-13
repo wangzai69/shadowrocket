@@ -1,4 +1,4 @@
-# 2025免费下载官方shadowrocket小火箭（终结篇）实时更新
+# 2025免费下载官方shadowrocket小火箭图文（终结篇）实时更新
 shadowrocket 小火箭 shadowrocket下载 小火箭下载 小火箭共享账号 小火箭vpn 小火箭节点 shadowrocket节点 shadowrocketiOS下载 shadowrocket账号 美区ID共享 美区AppleID共享 苹果ID
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
