@@ -26,9 +26,11 @@
 
 不过另有方法
 
-去登录已精选的 [vpn供应商](https://yq.yq3566.top/#/register?code=WYvHUyx6) 有实时免费美区ID
+- 去登录已精选的 [vpn供应商](https://yq.yq3566.top/#/register?code=WYvHUyx6) 有实时免费美区ID
 
-登录后在 **` 查看文档 `** 打开 **` iOS、Mac客户端 `** 的教程里，拉到最底就是了。兄弟们我尽力了。
+- 登录后在 **` 查看文档 `**
+- 打开 **` iOS、Mac客户端 `** 教程
+- 拉到最底就是了。兄弟们我尽力了。
 
 
 <br>
