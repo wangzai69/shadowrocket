@@ -14,12 +14,6 @@
 
 - **`cewotucd99@gmail.com`**
 
-- **`cdneggin11@gmail.com`**
-
-- **`viendqd233@gmail.com`**
-
-- **`ingunfe1222@gmail.com`**
-
 - 统一密码是：Ddping89
 
 由于使用免费ID的用户过多，ID频繁被锁或被恶意篡改，导致ID无法使用。  
