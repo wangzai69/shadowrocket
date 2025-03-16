@@ -21,12 +21,9 @@ tingrogr58@gmail.com
 ```
 cewotucd99@gmail.com
 ```
-统一密码是：Ddping89   
+统一密码是：Ddping980   
 
-因ID频繁被锁被恶意篡改导致无法使用   
-不过另有方法 ： 
-
-#
+因ID频繁被锁被恶意篡改导致无法使用，不过另有方法 ：    
 
 - 去登录已精选的 [🚀 vpn供应商](https://cn.992559.xyz/#/register?code=WYvHUyx6) 
 - 在 **` 查看文档 `**→**` iOS、Mac客户端 `**
