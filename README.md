@@ -19,7 +19,7 @@
 - 图6：选择 <code>其他选项</code> <code>不升级</code>
 - 图7：登录成功
 - 图8：搜索安装 <code>Shadowrocket</code> 代理工具
-- 下载完请查看 [shadowrocket图文教程](https://github.com/wangzai69/wiki)
+- 如何使用请查看 [shadowrocket图文教程](https://github.com/wangzai69/wiki)
 
 ![图片描述](https://github.com/wangzai69/wiki/blob/main/images/22.jpg?raw=true)
 
