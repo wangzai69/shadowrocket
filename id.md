@@ -1,20 +1,13 @@
 #### 🚀 下载shadowrocket的美区ID
 
-- **`khongnd816@gmail.com`**
-
-- **`524dgededw@gmail.com`**
-
-- **`8547cecuoeo@gmail.com`**
-
-- **`9585pingwd@gmail.com`**
-
-- **`dturde588@gmail.com`**
-
-- **`tingrogr58@gmail.com`**
-
-- **`cewotucd99@gmail.com`**
-
-- 统一密码是：Ddping89
+**`khongnd816@gmail.com`**   
+**`524dgededw@gmail.com`**   
+**`8547cecuoeo@gmail.com`**   
+**`9585pingwd@gmail.com`**   
+**`dturde588@gmail.com`**     
+**`tingrogr58@gmail.com`**   
+**`cewotucd99@gmail.com`**   
+统一密码是：Ddping89   
 
 由于使用免费ID的用户过多，ID频繁被锁或被恶意篡改，导致ID无法使用。不过另有方法 ：
 
