@@ -1,4 +1,4 @@
-#### 🚀 下载shadowrocket的美区ID
+#### 🚀 下载 Shadowrocket 的美区ID
 
 ```
 khongnd816@gmail.com
