@@ -23,25 +23,26 @@
 
 ![图片描述](https://github.com/wangzai69/wiki/blob/main/images/22.jpg?raw=true)
 
-<br>
-
-##
-<br>
-
-### 📌 关于我 | About Me  
-💻 **全栈开发者** / **技术爱好者** / **开源贡献者**  
-🚀 关注前沿技术，致力于高效、优雅的代码实现  
+#
 
 <br>
 
-### 📬 联系方式 | Contact  
+| 经典分享丨更多文章更新中 | 
+|------|
+|[精选翻墙梯子节点机场vpn推荐](https://github.com/wangzai69/vpn)                |
+|[翻墙软件官方镜像下载clash等等](https://github.com/wangzai69/app)              |
+|[免费下载shadowrocket小火箭图文](https://github.com/wangzai69/shadowrocket)   |
+|[翻墙软件如何使用详细图文教程](https://github.com/wangzai69/wiki)               |
+|[官方谷歌框架GooglePlay商店服务](https://github.com/wangzai69/GooglePlay)      |
+|[最新免拔卡TikTok苹果安卓教程](https://github.com/wangzai69/tiktok)             |
+|[推特Twitter下载账号并解除敏感](https://github.com/wangzai69/Twitter)             |
+
+<br>
+
+❤️ **GitHub**: [@wangzai69](https://github.com/wangzai69)  
 📧 **Email**: [eitaanthony7@gmail.com](mailto:eitaanthony7@gmail.com)  
-🐙 **GitHub**: [@wangzai69](https://github.com/wangzai69)  
 🌐 **网站**: [https://github.com/wangzai69](https://github.com/wangzai69)  
 
-📢 **如果你喜欢这个博客，请 ⭐Star 支持！**  
-
-<br>
 <br>
 
 
