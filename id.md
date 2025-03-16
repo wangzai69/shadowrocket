@@ -12,12 +12,10 @@ tingrogr58@gmail.com
 cewotucd99@gmail.com
 ```
 - 统一密码：Ddping980   
-<mark>**因ID频繁被锁被恶意篡改已无法使用**</mark>   
-<mark>最后更新时间 2025年03月16日13时</mark>
-
+<mark>**因ID频繁被锁被恶意篡改已无法使用**</mark>    
+<mark>最后更新时间 2025年03月16日13时</mark>    
 - 不过另有方法 ：
 - 去登录已精选的 [🚀 vpn供应商](https://cn.992559.xyz/#/register?code=WYvHUyx6) 
 - 在 **` 查看文档 `**→**` iOS、Mac客户端 `**
 - 拉到最底就是实时免费美区ID
 - 兄弟姐妹们我尽力了。  
-<mark>最后更新时间 2025年03月16日13时</mark>
