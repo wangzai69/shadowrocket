@@ -1,10 +1,6 @@
 #### 🚀 美区ID可下载 Shadowrocket
-
 ```
-khongnd816@gmail.com
-```
-```
-9585pingwd@gmail.com
+w85pingwd@gmail.com
 ```
 ```
 dturde588@gmail.com
@@ -16,6 +12,9 @@ tingrogr58@gmail.com
 cewotucd99@gmail.com
 ```
 - 统一密码：Ddping980
+
+#
+
 - **更新时间：`2025年03月16日13时`**     
 - 因ID频繁被恶意篡改已无法使用，不过另有方法 ：    
 - 去登录已精选的 [🚀 vpn供应商](https://cn.992559.xyz/#/register?code=WYvHUyx6) 
