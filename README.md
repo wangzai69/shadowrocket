@@ -3,8 +3,6 @@
 
 #
 
-<br>
-
 ## iOS和MacOS下载Shadowrocket教程
 
 小火箭的真实名称是Shadowrocket，只有国外苹果商店才能下载正版，就需要用国外的苹果ID登录商店才能下载，这里需要注意要在AppStore登录ID，而不是在手机设置的iCloud里登录。
