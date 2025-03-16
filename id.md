@@ -1,12 +1,6 @@
-#### 🚀 下载 Shadowrocket 的美区ID
+#### 🚀 美区ID可下载 Shadowrocket
 
-```sh
-$ echo "Hello, World!"
 ```
-
-
-
-```language
 khongnd816@gmail.com
 ```
 ```
