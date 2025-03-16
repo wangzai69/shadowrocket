@@ -1,6 +1,6 @@
 #### 🚀 下载 Shadowrocket 的美区ID
 
-```
+```language
 khongnd816@gmail.com
 ```
 ```
