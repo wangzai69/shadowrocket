@@ -16,7 +16,7 @@
 
 <br><br>
 
-- 图5：[获取免费美区ID](https://github.com/wangzai69/shadowrocket/blob/main/id.md)并登录
+- 图5：[获取免费美区ID](https://github.com/wangzai69/AppleID)并登录
 - 图6：选择 <code>其他选项</code> <code>不升级</code>
 - 图7：登录成功
 - 图8：搜索安装 <code>Shadowrocket</code> 代理工具
