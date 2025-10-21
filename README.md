@@ -6,7 +6,7 @@
 
 | 经典分享| 
 |------|
-|[精选推荐翻墙梯子节点机场 vpn](https://github.com/wangzai69/fanqiang/blob/main/%E7%B2%BE%E9%80%89%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.md)                |
+|👉[精选推荐翻墙梯子节点机场 vpn](https://github.com/wangzai69/fanqiang/blob/main/%E7%B2%BE%E9%80%89%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.md)                |
 |👉[小火箭资源分享站·内置 Apple ID](https://xhj.jd0901.top) |
 
 <br><br>
